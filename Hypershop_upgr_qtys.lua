@@ -11,6 +11,8 @@
 
 ITEMQUANTITIES=9999
 
+
+
 WEAPTECHSPECIALIST=
 [[
 				<Property value="NMSString0x10.xml">
@@ -109,8 +111,31 @@ WEAPTECHSPECIALIST=
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="U_SMG4" />
 				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_RAILX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_BOLTX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_TGRENADEX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_LASERX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_GRENADEX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SMGX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHOTGUNX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SCANNERX" />
+				</Property>
 ]]
-
 SUITTECHSPECIALIST=
 [[
 				<Property value="NMSString0x10.xml">
@@ -191,8 +216,19 @@ SUITTECHSPECIALIST=
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="U_HOTPROT3" />
 				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_HAZARDX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_ENERGYX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_JETBOOSTX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHIELDBOOSTX" />
+				</Property>
 ]]
-
 SHIPTECHSPECIALIST=
 [[
 				<Property value="NMSString0x10.xml">
@@ -363,9 +399,31 @@ SHIPTECHSPECIALIST=
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="AP_SHIPLAS4" />
 				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHIPBLOBX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_HYPERX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHIPLASX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHIPGUNX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHIPSHOTX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_PULSEX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHIPSHIELDX" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="U_SHIPMINIX" />
+				</Property>
 ]]
-
-
 VEHICLETECHSPECIALIST=
 [[
 				<Property value="NMSString0x10.xml">
@@ -468,8 +526,6 @@ VEHICLETECHSPECIALIST=
 					<Property name="Value" value="U_MECHGUN4" />
 				</Property>
 ]]
-
-
 TECHSHOP=
 [[
 				<Property value="NMSString0x10.xml">
@@ -905,8 +961,6 @@ TECHSHOP=
 					<Property name="Value" value="VEHICLE_SCAN2" />
 				</Property>
 ]]
-
-
 SUBSTANCES=
 [[
 				<Property value="NMSString0x10.xml">
@@ -1090,8 +1144,6 @@ SUBSTANCES=
 					<Property name="Value" value="YELLOW2" />
 				</Property>
 ]]
-
-
 PRODUCTS=
 [[
 				<Property value="NMSString0x10.xml">
@@ -1198,6 +1250,15 @@ PRODUCTS=
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="BIOSHIP_EGG1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="BIOSHIP_EGG2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="BIOSHIP_EGG3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="BIOSHIP_EGG4" />
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="BIOSHIP_EGG5" />
@@ -1684,10 +1745,12 @@ PRODUCTS=
 				</Property>
 ]]
 
+
+
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-    ["MOD_FILENAME"]="Hypershop_spencerbug.pak",
-    ["MOD_AUTHOR"]="Spencebug",
+    ["MOD_FILENAME"]="Hypershop_upgr_qtys.pak",
+    ["MOD_AUTHOR"]="Spencerbug",
     ["MODIFICATIONS"] = 
 	{
         {
