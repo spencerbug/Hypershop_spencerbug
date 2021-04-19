@@ -1147,7 +1147,37 @@ SUBSTANCES=
 PRODUCTS=
 [[
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ABAND_LOCATOR" />
+					<Property name="Value" value="FARMPROD1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="POWERCELL2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ALBUMENPEARL" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_DUSTWILD" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="BIO" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ARTIFACT_KEY" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="POI_LOCATOR" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ANTIMATTER" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="AM_HOUSING" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_ICE_APPLE" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ALLOY1" />
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="ACCESS1" />
@@ -1159,289 +1189,79 @@ PRODUCTS=
 					<Property name="Value" value="ACCESS3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALBUMENPEARL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY5" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY6" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY7" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ALLOY8" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="AM_HOUSING" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="AMMO" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ANTIMATTER" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_BASIC" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_MEAT_1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_MEAT_2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_MEAT_3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="BAIT_MEAT_4" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_VEG_1" />
+					<Property name="Value" value="FOOD_P_DUSTFARM" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_VEG_2" />
+					<Property name="Value" value="FOOD_ICE_CARM" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_VEG_3" />
+					<Property name="Value" value="FUELPROD3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BAIT_VEG_4" />
+					<Property name="Value" value="NANOTUBES" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIO" />
+					<Property name="Value" value="WATERPROD3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP5" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP5_0" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP5_1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_COMP5_2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_EGG1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_EGG2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_EGG3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_EGG4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_EGG5" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_GROWTH1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_GROWTH2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_GROWTH3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_GROWTH4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_STEM1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_STEM2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_STEM3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BIOSHIP_STEM4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="BP_SALVAGE" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CARBON_SEAL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CASING" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CATA_CRAFT" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CATAPROD3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CAVE_CRAFT" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CAVECUBE" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CAVEPROD3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="CLAMPEARL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="COMPOUND1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="COMPOUND2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="COMPOUND3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="COMPOUND4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="COMPOUND5" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="COMPOUND6" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="COMPUTER" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="EXOTIC_BIOPROD" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="EXP_CURIO1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="EXP_CURIO2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="EXP_CURIO3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="EYEBALL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FACT_TOKEN" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD5" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD6" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD7" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FARMPROD8" />
+					<Property name="Value" value="FOOD_ICE_CHOC" />
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="FARMPROD9" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FIENDCORE" />
+					<Property name="Value" value="CAVE_CRAFT" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FISHCORE" />
+					<Property name="Value" value="BAIT_BASIC" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_ALL1" />
+					<Property name="Value" value="MEGAPROD3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_ALL2" />
+					<Property name="Value" value="COMPOUND6" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_ALL3" />
+					<Property name="Value" value="VENTGEM" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_CAVE" />
+					<Property name="Value" value="FOOD_ICE_FIEND" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_COLDWILD" />
+					<Property name="Value" value="CATAPROD3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_DUSTWILD" />
+					<Property name="Value" value="JELLY" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_GLITCH" />
+					<Property name="Value" value="ALLOY2" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_HOTWILD" />
+					<Property name="Value" value="EXP_CURIO3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_LUSHWILD" />
+					<Property name="Value" value="NAV_DATA_DROP" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_RADWILD" />
+					<Property name="Value" value="ABAND_LOCATOR" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FOOD_P_TOXWILD" />
+					<Property name="Value" value="REACTION2" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FREI_INV_TOKEN" />
+					<Property name="Value" value="BAIT_VEG_2" />
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="FRIG_BOOST_COM" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FRIG_BOOST_EXP" />
+					<Property name="Value" value="BAIT_VEG_3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FRIG_BOOST_MIN" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FRIG_BOOST_SPD" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FRIG_BOOST_TRA" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FRIG_TOKEN" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FRIGATE_FUEL_1" />
+					<Property name="Value" value="FOOD_P_HOTWILD" />
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="FRIGATE_FUEL_2" />
@@ -1450,202 +1270,22 @@ PRODUCTS=
 					<Property name="Value" value="FRIGATE_FUEL_3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="FUELPROD3" />
+					<Property name="Value" value="FRIGATE_FUEL_1" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GEODE_ASTEROID" />
+					<Property name="Value" value="FOOD_P_COLDWILD" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GEODE_CAVE" />
+					<Property name="Value" value="FOOD_ICE_FRUIT" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GEODE_CRYSTAL" />
+					<Property name="Value" value="FRIG_BOOST_SPD" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GEODE_LAND" />
+					<Property name="Value" value="COMPOUND4" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GEODE_RARE" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GEODE_SPACE" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GRAVBALL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="GRENFUEL1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="HEXCORE" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="HYDRALIC" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="HYPERFUEL1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="HYPERFUEL2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="JELLY" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="LANDPROD3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="LAUNCHFUEL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="LOG_KEY" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="MAGNET" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="MEGAPROD1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="MEGAPROD2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="MEGAPROD3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="MICROCHIP" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="MIND_ARC" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="MIRROR" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="NANOTUBES" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="NAV_DATA" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="NAV_DATA_DROP" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="NIPNIPBUDS" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="OXY_CRAFT" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="OXYPROD3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="POI_LOCATOR" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="POLICE_TOKEN" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="POWERCELL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="POWERCELL2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="PRODFUEL1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="PRODFUEL2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="QUAD_PROD" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="REACTION1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="REACTION2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="REACTION3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="REPAIRKIT" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SACVENOM" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SCRAP_GOODS" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SCRAP_TECH" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SCRAP_WEAP" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SHIP_INV_TOKEN" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SHIPCHARGE" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SOUL_ENGINE" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="STORM_CRYSTAL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="SUBFUEL" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TECH_COMP" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ALLOY1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ALLOY2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ALLOY3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ALLOY4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ALLOY5" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMMODITY1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMMODITY2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMMODITY3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMMODITY4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMMODITY5" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMPONENT1" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMPONENT2" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMPONENT3" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMPONENT4" />
-				</Property>
-				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_COMPONENT5" />
+					<Property name="Value" value="ULTRAPROD1" />
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="TRA_CURIO1" />
@@ -1654,96 +1294,304 @@ PRODUCTS=
 					<Property name="Value" value="TRA_CURIO2" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ENERGY1" />
+					<Property name="Value" value="ALLOY7" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ENERGY2" />
+					<Property name="Value" value="FARMPROD3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ENERGY3" />
+					<Property name="Value" value="FOOD_P_COLDFARM" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ENERGY4" />
+					<Property name="Value" value="FOOD_P_RADWILD" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_ENERGY5" />
+					<Property name="Value" value="ALLOY6" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_EXOTICS1" />
+					<Property name="Value" value="GRAVBALL" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_EXOTICS2" />
+					<Property name="Value" value="BAIT_MEAT_2" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_EXOTICS3" />
+					<Property name="Value" value="FISHCORE" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_EXOTICS4" />
+					<Property name="Value" value="FARMPROD4" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_EXOTICS5" />
+					<Property name="Value" value="FOOD_P_ALL1" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_MINERALS1" />
+					<Property name="Value" value="CARBON_SEAL" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_MINERALS2" />
+					<Property name="Value" value="ALLOY3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_MINERALS3" />
+					<Property name="Value" value="HEXCORE" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_MINERALS4" />
+					<Property name="Value" value="FOOD_P_GLITCH" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_MINERALS5" />
+					<Property name="Value" value="FRIG_BOOST_EXP" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_TECH1" />
+					<Property name="Value" value="FOOD_ICE_HONEY" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_TECH2" />
+					<Property name="Value" value="COMPOUND3" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_TECH3" />
+					<Property name="Value" value="HYDRALIC" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_TECH4" />
+					<Property name="Value" value="SUBFUEL" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="TRA_TECH5" />
+					<Property name="Value" value="EYEBALL" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ULTRAPROD1" />
+					<Property name="Value" value="FOOD_ICE" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="ULTRAPROD2" />
+					<Property name="Value" value="FOOD_P_LUSHWILD" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="VENTGEM" />
+					<Property name="Value" value="POWERCELL" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="WALKER_PROD" />
+					<Property name="Value" value="ALLOY8" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="WAR_CURIO1" />
+					<Property name="Value" value="FOOD_P_TOXWILD" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="WAR_CURIO2" />
+					<Property name="Value" value="FOOD_P_WATER" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="WAR_CURIO3" />
+					<Property name="Value" value="EXP_CURIO1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="EXP_CURIO2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FIENDCORE" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ALLOY4" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="PRODFUEL2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FARMPROD7" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FARMPROD8" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="CLAMPEARL" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="EXOTIC_BIOPROD" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="LOG_KEY" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FARMPROD2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="MAGNET" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ALLOY5" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_CAVE" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_DEATH" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="CASING" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="MICROCHIP" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="MIND_ARC" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FRIG_BOOST_TRA" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FRIG_BOOST_MIN" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="NAV_DATA" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="NIPNIPBUDS" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="REACTION3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_TOXFARM" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="COMPOUND1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="PRODFUEL1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="OXY_CRAFT" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_ICE_GLITCH" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="BAIT_MEAT_3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_LUSHFARM" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FARMPROD5" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="MEGAPROD1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="AMMO" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_ALL3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="QUAD_PROD" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="COMPUTER" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="MEGAPROD2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="LANDPROD3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="REPAIRKIT" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="SACVENOM" />
 				</Property>
 				<Property value="NMSString0x10.xml">
 					<Property name="Value" value="WATER_CRAFT" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="WATERPROD3" />
+					<Property name="Value" value="BAIT_VEG_1" />
 				</Property>
 				<Property value="NMSString0x10.xml">
-					<Property name="Value" value="WEAP_INV_TOKEN" />
+					<Property name="Value" value="COMPOUND2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_RADFARM" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_STELLAR" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="CATA_CRAFT" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="MIRROR" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_HOTFARM" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="TRA_COMMODITY2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="LAUNCHFUEL" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ULTRAPROD2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_ICE_STAR" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="STORM_CRYSTAL" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="COMPOUND5" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="OXYPROD3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="BAIT_VEG_4" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_ALL2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="BAIT_MEAT_1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="CAVEPROD3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="REACTION1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FARMPROD6" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="GRENFUEL1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="ODD_EGG" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="CAVECUBE" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_ICE_GRAH" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="WAR_CURIO2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="WAR_CURIO1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="WAR_CURIO3" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="WALKER_PROD" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="HYPERFUEL1" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="HYPERFUEL2" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="FOOD_P_POOP" />
+				</Property>
+				<Property value="NMSString0x10.xml">
+					<Property name="Value" value="TECH_COMP" />
 				</Property>
 ]]
+
 
 
 
